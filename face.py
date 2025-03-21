@@ -29,7 +29,7 @@ def detect_faces_in_image(image_path):
     cv2.destroyAllWindows()
 
 # Call the function (use any image path)
-detect_faces_in_image("image.jpg")
+detect_faces_in_image("msd.jpg")
 
 # ----------- Webcam Test -----------
 def test_webcam():

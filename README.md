@@ -21,7 +21,7 @@ This project implements face detection using OpenCV and Haar cascade classifiers
 ## 🚀 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/face-detection-opencv.git
+   git clone https://github.com/siddardhaprasad/face-detection-opencv.git
    ```
 2. Navigate to the project directory:
    ```sh
